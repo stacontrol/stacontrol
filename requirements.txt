@@ -1,0 +1,6 @@
+streamlit
+pillow
+comtypes
+pandas
+plotly
+streamlit-cookies-manager
